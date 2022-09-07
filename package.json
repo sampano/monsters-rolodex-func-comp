@@ -1,7 +1,7 @@
 {
   "name": "monsters-rolodex-functional-comp",
   "version": "0.1.0",
-  "hompage": "https://sampano.github.io/monsters-rolodex-func-comp/",
+  "homepage": "https://sampano.github.io/monsters-rolodex-func-comp/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
